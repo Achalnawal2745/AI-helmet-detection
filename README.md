@@ -3,7 +3,7 @@
 
 ## 🚀 Overview
 
-This project implements an **object detection model using YOLOv8 (Ultralytics)** to detect motorcyclists and classify whether they are wearing helmets in real-time images. The aim is to enhance road safety compliance monitoring.
+This project implements an **object detection model using YOLOv8 (Ultralytics)** to detect motorcyclists and classify whether they are wearing helmets. The aim is to enhance road safety compliance monitoring.
 
 ---
 
